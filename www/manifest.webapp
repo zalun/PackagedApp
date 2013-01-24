@@ -1,0 +1,32 @@
+{
+  "fullscreen": "true", 
+  "name": "TestApp", 
+  "default_locale": "en", 
+  "icons": {
+    "32": "/icons/32.png", 
+    "256": "/icons/256.png", 
+    "16": "/icons/16.png"
+  }, 
+  "installs_allowed_from": [
+    "https://marketplace.firefox.com", 
+    "https://marketplace-dev.allizom.org"
+  ], 
+  "description": "Shadtomcon ousmemy clastsordbenver shadtomcon malcal trapourin entquarver illkight tuourdwig idotilant futmastbubtiz frioldfa hispo trapourin broardbaspled.", 
+  "version": "1.0", 
+  "launch_path": "/index.html", 
+  "developer": {
+    "url": "https://mozilla.org", 
+    "name": "Mozilla"
+  }, 
+  "locales": {
+    "pt-br": {
+      "name": "Bluesatba Cuowblelpen Headinphy", 
+      "description": "Io adealor dispeent mezomcusings clastsordbenver bipostred broardbaspled didhu plamapcasnem tuourdwig ightlyterock housbonunshi clastsordbenver lievingtant exingchar."
+    }, 
+    "es": {
+      "name": "Entquarver Yleri Futmastbubtiz", 
+      "description": "Britonzontack cyca messishapov mentru itnowing fernewcrizsam ovtucout earicesy gemastac rincal roardtenarin ovtucout acrandmeasent nerthocylfon exingchar."
+    }
+  }, 
+  "orientation": "landscape"
+}
