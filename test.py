@@ -13,4 +13,4 @@ request.onerror = function(e) {
 marionetteScriptFinished('Boooo :( ' + this.error.name);
 };"""
 print m.execute_async_script(script)
-# Out[69]: u'YAY'
+# Out[69]: u'Boooo :( INVALID_MANIFEST'
